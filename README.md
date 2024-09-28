@@ -14,3 +14,7 @@ I’m a passionate Full Stack Developer currently pursuing a Postgraduate Degree
 
 ## 📫 Let's Connect!
 I'm open to new opportunities for **Full Stack Software Development Co-Ops/Internships** and love to connect with like-minded developers. Feel free to explore my repositories, check out my projects, and reach out if you want to collaborate or discuss anything tech!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/henilkumarprafulchandrapatel)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henilkumar.p.patel@gmail.com)
