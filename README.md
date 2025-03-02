@@ -1,14 +1,14 @@
-# 👋 Hi there, I'm Henil!
+# 👋 Hi, I'm Henil!
 
 I’m a passionate Full Stack Developer currently pursuing a Postgraduate Degree in Full Stack Software Development at Lambton College. With a focus on the **MERN stack**, I'm dedicated to building efficient, user-friendly applications and constantly exploring new technologies to enhance my skills.
 
-## 🚀 About Me
+## About Me
 - 🎓 Graduate in Information Technology from Parul University.
 - 💻 Experienced in developing mobile and web applications, with hands-on skills in **Flutter**, **Dart**, **Python**, **JavaScript**, **React**, and **SQL**.
 - 🔧 Built **Fertizone** – a multi-platform application suite designed to connect rural consumers and sellers in the farming sector, with features like **location-based product listings, seller dashboards**, and **admin control panels**.
 - 👨‍💻 Enthusiast for **front-end development, Firebase authentication**, and **database management**, with an interest in creating seamless UI/UX experiences.
 
-## 🌱 What I'm Working On
+##  What I'm Working On
 - 📱 Enhancing my skills in the **MERN stack** and exploring advanced concepts in **web development, RESTful APIs**, and **real-time data synchronization**.
 - 🤖 Diving into **open-source projects** to contribute to the community and expand my experience in collaborative coding.
 
