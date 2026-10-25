@@ -28,13 +28,6 @@ Full-stack software developer based in Brampton, Ontario. I build production-gra
 
 ## 🚀 Featured Projects
 
-### [travel-bookings](https://github.com/henil-codes/travel-bookings) — Real-Time Ticket Booking System
-Production-grade booking platform built for a transportation client. Engineered a high-throughput Fastify + TypeScript backend with PostgreSQL (Drizzle ORM), dual-layer auth (OAuth 2.0 + JWT), and fully automated AWS infrastructure provisioned with Terraform.
-
-`TypeScript` `Fastify` `PostgreSQL` `Drizzle ORM` `OAuth 2.0` `JWT` `Terraform` `AWS`
-
----
-
 ### [VibeRadius](https://github.com/FenilP07/VibeRadius) — Collaborative Music Sharing App · [Live Demo ↗](https://vibe-radius.vercel.app)
 Team project — a real-time collaborative listening platform with Spotify integration. Users create shared sessions, search and queue songs, and vote on the playlist together via WebSockets.
 
